@@ -10,7 +10,7 @@
   <h1>greeting traveler.</h1>
   <p>> i'm yuzuruu.</p>
 
-  <p>> currently interested in programming, drawing, guitar is my hobby</p>
+  <p>> currently interested in programming, drawing</p>
 
   </a>
 </section>
